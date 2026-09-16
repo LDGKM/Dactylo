@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    std::string cheminTexteReference{"dactylo_deo_loutou_info.txt"};
+    std::string cheminTexteReference{"texteReference.txt"};
     std::fstream fichier{cheminTexteReference};
 
     if(!fichier)
