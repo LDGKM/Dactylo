@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1789547670 source:c:\users\louto\documents\dactylo\gamestats.cpp
+	"gamestats.h"
+
+1789547670 c:\users\louto\documents\dactylo\gamestats.h
+	<map>
+	<chrono>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1789387282 source:c:\users\louto\documents\dactylo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"typinggame.h"
+
+1789548352 source:c:\users\louto\documents\dactylo\typinggame.cpp
+	"typinggame.h"
+
+1789546677 c:\users\louto\documents\dactylo\typinggame.h
+	<string>
+	"gamestats.h"
+	<conio.h>
+
