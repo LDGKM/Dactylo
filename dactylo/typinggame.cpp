@@ -28,7 +28,7 @@ std::string TypingGame::readInput()
     {
         c = _getch();
 
-        if (!started)                  // <-- ajouter ce bloc
+        if (!started)                
         {
             d_stats.startTimer();
             started = true;
